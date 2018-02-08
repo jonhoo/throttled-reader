@@ -7,7 +7,7 @@
 //!
 //! # Examples
 //!
-//! ```rust
+//! ```
 //! # use std::io;
 //! # use std::io::prelude::*;
 //! # use throttled_reader::ThrottledReader;

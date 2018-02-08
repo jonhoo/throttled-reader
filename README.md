@@ -14,9 +14,6 @@ neglecting the other stream.
 ## Examples
 
 ```rust
-# use std::io;
-# use std::io::prelude::*;
-# use throttled_reader::ThrottledReader;
 let mut buf = [0];
 let mut stream = ThrottledReader::new(io::empty());
 
