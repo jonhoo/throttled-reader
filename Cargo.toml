@@ -1,0 +1,6 @@
+[package]
+name = "throttled-reader"
+version = "0.1.0"
+authors = ["Jon Gjengset <jon@thesquareplanet.com>"]
+
+[dependencies]
